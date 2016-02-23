@@ -1,0 +1,24 @@
+{
+  "name": "exo_bower",
+  "authors": [
+    "Virgil Niati <niativirgil@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "Flot": "https://github.com/flot/flot.git#^0.8.3"
+  }
+}
