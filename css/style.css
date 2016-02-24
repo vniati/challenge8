@@ -34,6 +34,14 @@
   padding-bottom: 40px;
 }
 
+.side-nav>li>ul>li {
+    list-style-type: none;
+}
+
+.side-nav>li>ul>li>a {
+  color: #fff
+}
+
 .side-nav li {
   width: 100%;
 }
@@ -110,4 +118,20 @@
 
 .huge {
   font-size: 3em;
+}
+
+.lead {
+  font-size: 18px;
+}
+
+.divvide {
+  height: 400px;
+}
+
+#pie {
+  height: 400px;
+}
+
+#graf {
+  height: 400px;
 }
